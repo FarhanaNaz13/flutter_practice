@@ -1,0 +1,1 @@
+class DeleteFailedException implements Exception {}

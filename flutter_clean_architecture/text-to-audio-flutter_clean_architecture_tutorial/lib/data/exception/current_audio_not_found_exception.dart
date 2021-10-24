@@ -1,0 +1,1 @@
+class CurrentAudioNotFoundException implements Exception {}

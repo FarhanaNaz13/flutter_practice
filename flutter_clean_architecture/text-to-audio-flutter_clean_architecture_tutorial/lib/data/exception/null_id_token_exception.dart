@@ -1,0 +1,1 @@
+class NullIdTokenException implements Exception {}

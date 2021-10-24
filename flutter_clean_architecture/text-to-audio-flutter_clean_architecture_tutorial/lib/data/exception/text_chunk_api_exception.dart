@@ -1,0 +1,1 @@
+class TextChunkApiException implements Exception {}

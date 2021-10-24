@@ -1,0 +1,1 @@
+class CurrentTextChunkNotFoundException implements Exception {}

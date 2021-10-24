@@ -1,0 +1,1 @@
+class NoCurrentUserTextAudioException implements Exception{}

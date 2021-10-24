@@ -1,0 +1,1 @@
+class GoogleAccountNotFoundException implements Exception{}

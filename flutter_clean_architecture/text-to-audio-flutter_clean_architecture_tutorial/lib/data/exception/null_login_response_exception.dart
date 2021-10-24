@@ -1,0 +1,1 @@
+class NulLoginResponseException implements Exception {}

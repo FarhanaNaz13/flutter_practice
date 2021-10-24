@@ -1,0 +1,1 @@
+class ServerRanOutOfTranscriptionsException implements Exception{}

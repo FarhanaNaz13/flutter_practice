@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667676367373",
+    "project_id": "audio-data-collection-86094",
+    "storage_bucket": "audio-data-collection-86094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667676367373:android:287469c43d0dc0ea98d344",
+        "android_client_info": {
+          "package_name": "com.celloscope.text_to_audio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667676367373-4eog244k0dcsh9j0658onog6tf6d03a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY6kTULv5COre97LRHD1sfc3MyKc4G820"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667676367373-4eog244k0dcsh9j0658onog6tf6d03a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
